@@ -1,4 +1,4 @@
-package store.main;
+package store;
 
 import store.checkout.CheckoutService;
 import store.checkout.Receipt;
